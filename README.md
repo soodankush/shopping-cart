@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Ecommerce website created using ReactJs
 
 This project is based on online shopping cart. I have created a website(a basic one) which implements the 
 shopping cart APIs from the [Fakestore](fakestoreapi.com). As the website had the dummy APIs only, so I wasn't 
